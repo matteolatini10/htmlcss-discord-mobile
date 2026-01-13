@@ -9,6 +9,7 @@
 body {
     width: 512px;
     background-color: rgb(13, 13, 78);
+    font-family: "DM Sans";
 }
 
 #main-header {
@@ -30,27 +31,34 @@ p {
 .container {
     min-height: 200px;
     width: 350px;
-    border: 2px solid red;
     margin: 35px 70px;
 }
 
+.chats {
+    min-height: 200px;
+    width: 350px;
+    border: 2px solid red;
+    margin: 35px 70px;
+    
+}
+
 .download {
-    height: 40px;
-    width: 160px;
+    height: 43px;
+    width: 333px;
     margin-bottom: 10px;
     position: relative;
-    left: 80px;
+    left: 5px;
     background-color: white;
     color:black;
     border-radius:10px 10px 10px 10px;
 }
 
 .discord {
-    height: 40px;
-    width: 160px;
+    height: 43px;
+    width: 333px;
     margin-bottom: 10px;
     position: relative;
-    left: 80px;
+    left: 5px;
     background-color: rgb(71, 98, 238);
     color: white;
     border-radius:10px 10px 10px 10px;
@@ -63,4 +71,8 @@ p {
     position: relative;
     left: 80px;
     border-radius: 10px 10px 10px;
+}
+
+#cube {
+    width: 10px;
 }
