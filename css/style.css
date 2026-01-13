@@ -56,3 +56,11 @@ p {
     border-radius:10px 10px 10px 10px;
 
 }
+
+.demo-discord {
+    margin: 10px 2px;
+    width: 200px;
+    position: relative;
+    left: 80px;
+    border-radius: 10px 10px 10px;
+}
