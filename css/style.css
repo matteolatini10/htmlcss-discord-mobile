@@ -45,6 +45,8 @@ p {
     
 }
 
+/*button prima card*/
+
 .download {
     height: 43px;
     width: 333px;
@@ -68,6 +70,8 @@ p {
 
 }
 
+/*immagini prima card*/
+
 .demo-discord {
     margin: 10px 2px;
     width: 200px;
@@ -81,4 +85,12 @@ p {
     position: absolute;
     top: -35px;
     left: 47px;
+}
+
+.streamer {
+    margin: 10px 2px;
+    width: 200px;
+    position: relative;
+    left: 80px;
+    border-radius: 10px 10px 10px;
 }
